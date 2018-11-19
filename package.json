@@ -18,8 +18,7 @@
       "test": "NODE_ENV=test jest",
       "lint": "eslint .",
       "validate": "yarn test && yarn lint-staged",
-      "greet": "node .crystallize-greeting/",
-      "postinstall": "yarn greet"
+      "greet": "node .crystallize-greeting/"
    },
    "husky": {
       "hooks": {

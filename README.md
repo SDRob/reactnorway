@@ -54,3 +54,4 @@ There are multiple alternatives for deployments, however for the easiest hosting
 - Run `yarn global add now`
 - Navigate to your project folder
 - Run `now`
+"# reactnorway" 
